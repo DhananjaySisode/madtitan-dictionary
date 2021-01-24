@@ -1,2 +1,2 @@
-# Xtrem Dictionary
+# Xtreme Dictionary
 

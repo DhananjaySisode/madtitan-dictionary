@@ -17,7 +17,7 @@ function NavBar() {
             <AppBar>
                 <Toolbar>
                     <Typography>
-                        Xtrem Dictionary
+                        Xtreme Dictionary
                     </Typography>
                     <div>
                         <IconButton
