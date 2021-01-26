@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/%7Bmadtitan-dictionary%7D/static/css/main.451c6b6b.chunk.css",
+    "main.js": "/%7Bmadtitan-dictionary%7D/static/js/main.73294171.chunk.js",
+    "main.js.map": "/%7Bmadtitan-dictionary%7D/static/js/main.73294171.chunk.js.map",
+    "runtime-main.js": "/%7Bmadtitan-dictionary%7D/static/js/runtime-main.c22c044e.js",
+    "runtime-main.js.map": "/%7Bmadtitan-dictionary%7D/static/js/runtime-main.c22c044e.js.map",
+    "static/js/2.8a97a4c2.chunk.js": "/%7Bmadtitan-dictionary%7D/static/js/2.8a97a4c2.chunk.js",
+    "static/js/2.8a97a4c2.chunk.js.map": "/%7Bmadtitan-dictionary%7D/static/js/2.8a97a4c2.chunk.js.map",
+    "static/js/3.9f265b7e.chunk.js": "/%7Bmadtitan-dictionary%7D/static/js/3.9f265b7e.chunk.js",
+    "static/js/3.9f265b7e.chunk.js.map": "/%7Bmadtitan-dictionary%7D/static/js/3.9f265b7e.chunk.js.map",
+    "index.html": "/%7Bmadtitan-dictionary%7D/index.html",
+    "static/css/main.451c6b6b.chunk.css.map": "/%7Bmadtitan-dictionary%7D/static/css/main.451c6b6b.chunk.css.map",
+    "static/js/2.8a97a4c2.chunk.js.LICENSE.txt": "/%7Bmadtitan-dictionary%7D/static/js/2.8a97a4c2.chunk.js.LICENSE.txt",
+    "static/media/404.81c0007a.png": "/%7Bmadtitan-dictionary%7D/static/media/404.81c0007a.png",
+    "static/media/dhananjay_sisode.5051c716.jpg": "/%7Bmadtitan-dictionary%7D/static/media/dhananjay_sisode.5051c716.jpg",
+    "static/media/dictionary.9a57ec35.png": "/%7Bmadtitan-dictionary%7D/static/media/dictionary.9a57ec35.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c22c044e.js",
+    "static/js/2.8a97a4c2.chunk.js",
+    "static/css/main.451c6b6b.chunk.css",
+    "static/js/main.73294171.chunk.js"
+  ]
+}
